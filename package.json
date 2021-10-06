@@ -1,0 +1,22 @@
+{
+  "name": "elynore",
+  "version": "1.0.0",
+  "description": "Api for Elynore website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olubusolami/Elynore.git"
+  },
+  "author": "Olubusola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olubusolami/Elynore/issues"
+  },
+  "homepage": "https://github.com/olubusolami/Elynore#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
